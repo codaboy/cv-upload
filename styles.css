@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+body{
+    margin:20px;
+    padding:60px;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    background-color: white;;
+    width:80%;
+}
+
+
+.admin{
+    padding-left:85px;
+    padding-bottom: 2px;
+}
+
+.ul{
+    padding-left: 100px;
+}
+
+.num{
+    padding-left: 50px;
+}
+
+.school{
+    padding-left: 120px;
+}
+
+.cert{
+    padding-left: 215px;
+}
+
+.title { 
+    background-color: rgba(10, 218, 148, 0.158);
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top:10px;
+    margin-left: 100px;
+    color:black;
+}
+.title .name{
+    letter-spacing: 0.1rem;
+}
+
+
+
+
+.strength{
+    background-color: rgba(10, 218, 148, 0.158);
+    padding-bottom: 10px;
+    padding-top:10px;
+    margin-left: 100px;
+    
+}
+
+hr{
+   border: 2px solid black;
+}
+.work{
+    background-color: rgba(10, 218, 148, 0.158);
+    padding-bottom: 10px;
+    padding-top:10px;
+    margin-left: 100px;
+}
+.work .kc{
+    padding-left: 50px;
+}
+ 
+
+.edu{
+    background-color: rgba(10, 218, 148, 0.158);
+    padding-bottom: 10px;
+    padding-top:10px;
+    margin-left: 100px;
+}
+
+.ref{
+    background-color: rgba(10, 218, 148, 0.158);
+    padding-bottom: 10px;
+    padding-top:10px;
+    margin-left: 100px;
+}
+ul li {
+    font-size:14px;
+    letter-spacing: 1px;
+    word-spacing: 1px;;
+}
+
